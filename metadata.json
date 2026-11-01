@@ -1,0 +1,11 @@
+{
+  "name": "Vanish Chats",
+  "description": "Next-generation private ephemeral messaging platform with liquid glass surfaces, disappearing messages, stories, voice notes, and real-time presence.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
